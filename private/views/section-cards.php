@@ -10,17 +10,7 @@
           <div class="col s12 m8 offset-m2 l4 ">
             <div class="card">
               <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-<<<<<<< HEAD
-<<<<<<< HEAD
-                <img class="activator" src="assets/***.png" alt="">
-=======
                 <img class="activator" src="assets/img/card1.png" alt="">
->>>>>>> 6a161830df6bc6ba642d9b63292b25fb8dbeeae9
-=======
-
-                <img class="activator" src="assets/***.png" alt="">
-
->>>>>>> 68b593e0ccef290a10f1a4588b779501ce31d015
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">titre h3<i class="material-icons right">more_vert</i></h3>
@@ -34,17 +24,7 @@
         <div class="col s12 m8 offset-m2 l4 ">
           <div class="card">
             <div class="card-image teal lighten-3 card-image waves-effect waves-block waves-light">
-<<<<<<< HEAD
-<<<<<<< HEAD
-					<img  class="activator" src="assets/***.png" alt="">
-=======
 					<img  class="activator" src="assets/img/card1.png" alt="">
->>>>>>> 6a161830df6bc6ba642d9b63292b25fb8dbeeae9
-=======
-
-					<img  class="activator" src="assets/***.png" alt="">
-
->>>>>>> 68b593e0ccef290a10f1a4588b779501ce31d015
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Titre H3<i class="material-icons right">more_vert</i></h3>
@@ -58,17 +38,8 @@
         <div class="col s12 m8 offset-m2 l4 ">
           <div class="card">
             <div class="card-image  red accent-2 waves-effect waves-block waves-light">
-<<<<<<< HEAD
-<<<<<<< HEAD
-              <img class="activator" src="assets/***.png" alt="">
-=======
               <img class="activator" src="assets/img/card1.png" alt="">
->>>>>>> 6a161830df6bc6ba642d9b63292b25fb8dbeeae9
-=======
 
-              <img class="activator" src="assets/***.png" alt="">
-
->>>>>>> 68b593e0ccef290a10f1a4588b779501ce31d015
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Titre h3<i class="material-icons right ">more_vert</i></h3>
